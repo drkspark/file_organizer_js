@@ -1,6 +1,6 @@
 # Tasks
-[*] CLI Input 
-[*] Help
-[*] Organize
-[*] Tree
-[*] Global
+- [x] CLI Input 
+- [x] Help Function
+- [x] Organize Function
+- [x] Tree Function
+- [x] Make it Globaly Accessiable
