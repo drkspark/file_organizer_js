@@ -1,0 +1,15 @@
+{
+  "name": "file_system_organiser",
+  "version": "1.0.0",
+  "description": "CLI that Organizes the given Folder and mimics command",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "drkspark",
+  "license": "ISC",
+  "bin": {
+    "peppy": "main.js"
+  }
+}
