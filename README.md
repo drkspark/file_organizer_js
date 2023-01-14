@@ -41,4 +41,5 @@
     peppy help
     ```
 
+![ScreenShot of tree and help Command](https://user-images.githubusercontent.com/68276043/212461521-932ad7b0-2a6f-4e99-9772-901270ec6efb.png)
 
