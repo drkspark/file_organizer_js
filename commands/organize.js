@@ -73,7 +73,7 @@ function copyFile(srcFilePath, destPath, category) {
     // console.log("File Copied\n");
 
     //! Uncomment the Below line to remove the file from the source
-    // fs.unlinkSync(s);
+    fs.unlinkSync(s);
 }
 
 module.exports = {
