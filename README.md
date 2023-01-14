@@ -14,7 +14,13 @@
 ## Commands:
     - help : List all the Commands we can Perform
     - tree : Shows a tree like structure of the directory
-    - organize: This organizes the files based on some predefined categories such has Documnents, App, Archives, Media, Code; rest in other category.
+    - organize: This organizes the files based on some predefined categories such:
+        - Documnents
+        - Apps
+        - Archives
+        - Media
+        - Code
+        - Others
 
 ## Syntax:
 - Tree Command: 
